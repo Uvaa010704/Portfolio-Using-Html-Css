@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+/* Home */
+.nav-logo {
+    border: 3px solid #4b6cc1;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.home-bg-container {
+    background-color: #191a19;
+    height: 100vh;
+}
+
+.home-heading {
+    color: #fff;
+    font-size: 40px;
+}
+
+.home-name {
+    color: #4b6cc1;
+}
+
+.home-para {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.home-button {
+    background-color: #4b6cc1;
+    color: #fff;
+}
+
+/* About */
+.about-container {
+    background-color: #323f4b;
+}
+
+h4 {
+    color: #cced00;
+    font-weight: 700;
+}
+
+.about-heading {
+    color: #fff;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.about-para {
+    color: #9aa5b1;
+}
+
+.skill-container {
+    background-color: #1f2933;
+}
+
+.skill-card {
+    background-color: #323f4b;
+    border-radius: 10px;
+    padding-left: 34px;
+    padding-right: 36px;
+    padding-top: 10px;
+    padding-bottom: 12px;
+}
+
+.skill-image {
+    height: 70px;
+}
+
+h3 {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 500px;
+}
+
+/* Project */
+.portfolio-container {
+    background-color: #3e4c59;
+}
+
+h4 {
+    color: #cced00;
+    font-weight: 700;
+}
+
+.prject-heading {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.card-project {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.web-design-heading {
+    color: #9aa5b1;
+    font-size: 14px;
+}
+
+.project-name-heading {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.project-para {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.project-read-more {
+    color: #cced00;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+/* Services */
+.service-container {
+    background-color: #52606d;
+}
+
+h4 {
+    color: #cced00;
+    font-weight: 700;
+}
+
+.service-heading {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.service-card {
+    background-color: #323f4b;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.service-image {
+    height: 50px;
+}
+
+.service-card-heading {
+    color: #fff;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.service-card-para {
+    color: #9aa5b1;
+    font-size: 22px;
+}
+
+/* Footer */
+.footer-bg-container {
+    background-image: linear-gradient(#001c32, #0d2436);
+}
+
+.footer-image {
+    height: 75px;
+    width: 75px;
+    border-radius: 45px;
+}
+
+h3 {
+    color: #cced00;
+    font-weight: 600;
+}
+
+.footer-para {
+    color: #9aa5b1;
+    font-size: 14px;
+}
+
+.footer-icon {
+    color: #5a7184;
+    font-size: 24px;
+}
+
+.copyright-bg-container {
+    background-color: #001c32;
+}
+
+.copyright-icon {
+    color: #5a7184;
+    font-size: 20px;
+}
